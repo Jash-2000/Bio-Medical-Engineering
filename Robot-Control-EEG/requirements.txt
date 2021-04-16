@@ -1,0 +1,8 @@
+scipy.io
+pandas
+numpy
+matplotlib
+tensorflow
+seaborn
+sklearn
+keras
