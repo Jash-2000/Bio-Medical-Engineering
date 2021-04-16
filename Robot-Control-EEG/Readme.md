@@ -36,7 +36,7 @@ The following table briefs about the labels used :
 
 ---
 
-A lot of motivation was taken from the following source and this project is a tweaked version of the paper implemented 
+A lot of motivation was taken from the following source but I have not copied their model. Their model has also been implemented and added in the repository seperately.
 
 ```
 Xiang Zhang, Lina Yao, Chaoran Huang, QuanZheng Sheng and Xianzhi Wang. Intent Recognition in Smart Living Through Deep Recurrent Neural Networks. The 24th International Conference On Neural Information Processing (ICONIP 2017). Guangzhou, China, Nov 14 - Nov 18, 2017.
