@@ -27,7 +27,7 @@ The reporistory is not maintained properly and I will keep on updating the repos
 
   ---
   
-  5. **Fuzzy PID control of an electrosurgical unit for power regulation** -  Paper Implementation -- Project in development phase
+  5. **Fuzzy PID control of an electrosurgical unit for power regulation** -  Project in development phase
 
   ---
   
