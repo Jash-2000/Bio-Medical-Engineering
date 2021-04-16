@@ -2,20 +2,25 @@
 
 This repository contains the **final course report** and **other non-course assignments** I did for understanding the concepts of BITS Pilani Undergraduate course - EEE F432 ( Medical Instrumentation ), currently ongoing, under supervision of [Dr. Sujan Yenuganti](https://www.bits-pilani.ac.in/pilani/yenugantisujan/Profile).
 
-1 of my reports has recieved funding under course instructor and would be later considered for a publication ( after experimentions are done once the campus re-opens) and the 2nd one is under review.
+One of my reports has recieved funding under course instructor and would be later considered for a publication ( after experimentions are done once the campus re-opens) and the 2nd one is under review.
 
-The description of all the projects is present below, but the reporistory is not maintained properly and I will keep on updating the repository.
+I have listed all the projects is below, and their specific instruction is present in individual folder itself. 
+The reporistory is not maintained properly and I will keep on updating the repository.
 
 ---
 
 ## Description of each folders
 
-  1. **Improved Thermoelectric material for powering Automotive Industry and Body Area Network Sensors** - Recieved Fundings
-  
+  1. **Improved Thermoelectric material for powering Automotive Industry and Body Area Network Sensors** - Non Course Project -- Recieved Fundings
+
+
+
   ---  
   
-  2. **Blood Infusion Warmer Design** - Final Course Project (Under Review)
-  
+  2. **Blood Infusion Warmer: Fuzzy Embedded System Design, Latest Developments and Commercial Product Analysis** - Final Course Project (Under Review)
+
+![disposablebl](https://user-images.githubusercontent.com/47540320/115068814-618f3380-9f10-11eb-8da2-33945f0d183a.jpg)
+
   ---
   
   3. **Signal Analysis of EEG to control a robotic car** - Self-learning Project
@@ -26,7 +31,7 @@ The description of all the projects is present below, but the reporistory is not
 
   ---
   
-  5. **Fuzzy PID control of an electrosurgical unit for power regulation** -  Project in development phase
+  5. **Fuzzy PID control of an electrosurgical unit for power regulation** -  Paper Implementation -- Project in development phase
 
   ---
   
