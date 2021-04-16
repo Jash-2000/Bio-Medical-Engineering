@@ -13,13 +13,9 @@ The reporistory is not maintained properly and I will keep on updating the repos
 
   1. **Improved Thermoelectric material for powering Automotive Industry and Body Area Network Sensors** - Non Course Project -- Recieved Fundings
 
-
-
   ---  
   
   2. **Blood Infusion Warmer: Fuzzy Embedded System Design, Latest Developments and Commercial Product Analysis** - Final Course Project (Under Review)
-
-![disposablebl](https://user-images.githubusercontent.com/47540320/115068814-618f3380-9f10-11eb-8da2-33945f0d183a.jpg)
 
   ---
   
