@@ -1,6 +1,7 @@
 # Control of a simplee robot using Brainwave - EEG signals
 
 This repository contins my keras implementation of signal analysis of EEG waves for control a simple differential drive robot. 
+An electroencephalogram (EEG) is a test that detects electrical activity in your brain using small, metal discs (electrodes) attached to your scalp. Your brain cells communicate via electrical impulses and are active all the time, even when you're asleep.
 
 ---
 
